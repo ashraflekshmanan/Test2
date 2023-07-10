@@ -1,1 +1,8 @@
+Edit the file in tool and save the file
+Go to github desktop to view the changes in the file.
+If the changes are fine then update the commit description regarding the update and click Commit
+This process is known as staging in which the changes are locally updated but not in github cloud
+Click push origin.
 
+It is a good practice to update the file from a draft branch rather than a main branch.
+So before making updates you must create a draft branch of the main branch and make changes.
